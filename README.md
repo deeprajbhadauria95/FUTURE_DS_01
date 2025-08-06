@@ -29,7 +29,7 @@ This dashboard analyzes E-commerce Sales Records, focusing on:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot 1](Dashboard_Images/E-Commerce Sales Dashboard.png)  
+![Dashboard Screenshot 1](Dashboard_Images/E-Commerce Sales Dashboard.png)
 ![Dashboard Screenshot 2](Dashboard_Images/E-Commerce Sales Dashboard(South & Technology).png)
 ![Dashboard Screenshot 3](Dashboard_Images/E-Commerce Sales Dashboard (West & Furniture ).png)
 ![Dashboard Screenshot 4](Dashboard_Images/E-Commerce Sales Dashboard (East & Office Supplies).png)
